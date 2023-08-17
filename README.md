@@ -39,26 +39,26 @@ Available to move anywhere in the world.
 
 <h3>Top projects I worked on:</h3>
 
-<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/44fdabfc-4b33-4716-a0e5-9e8a1bd64b9a' width=17px> **An Empirical Study on Ensemble of Segmentation Approaches**: ([🔗Code](https://github.com/deno750/TSP_Optimization) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/44fdabfc-4b33-4716-a0e5-9e8a1bd64b9a' width=17px> **An Empirical Study on Ensemble of Segmentation Approaches**: ([🔗Code](https://github.com/AlbertoFormaggio1/Ensemble-Of-Segmentation) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
 - Empirical search of the best ensemble architecture to perform colorectal polyps segmentation
 - Tested ensembles with different backbones, data augmentation methods and loss functions
 - Personally, I implemented several loss functions to create an ensemble with greater diversity
 - Achieved 0.893 Dice score
 - Developed with MATLAB
 
-🐢 **Sea Turtle Face Detection for Ocean Conservation**: ([🔗Code](https://github.com/deno750/TSP_Optimization) | [📄Report](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf ))
+🐢 **Sea Turtle Face Detection for Ocean Conservation**: ([🔗Code](https://github.com/AlbertoFormaggio1/turtle-head-detection) | [📄Report](https://github.com/AlbertoFormaggio1/turtle-head-detection/blob/main/AI_report.pdf))
 - Object detection of turtles' heads with RetinaNet algorithm
 - Category 14 of the Sustainable Development Goals defined by the United Nations: Life Below Water
 - Achieved 0.878 IoU score
 - Developed with Tensorflow, Pandas, Python
 
-<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/1d55cb14-76e2-4031-9d6f-f44fcdb77110' width=17px>  **Where Am I?** ([🔗Code](https://github.com/deno750/TSP_Optimization) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/1d55cb14-76e2-4031-9d6f-f44fcdb77110' width=17px>  **Where Am I?** ([🔗Code](https://github.com/AlbertoFormaggio1/Where-Am-I) | [📄Report (italian)](https://github.com/AlbertoFormaggio1/Where-Am-I/blob/master/Relazione%20Progetto%206CFU.pdf))
 - Android application to track in real-time the longitude, latitude and altitude of the device. Showing also the history of the past 5 minutes. Everything on a map as well.
 - Developed in Kotlin
 
 <img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/c38a7955-e421-47f2-8d7e-8f6493ef3f3e' width=17px> **Sentiment Analysis for Climate Change**: ([🔗Code](https://github.com/AlbertoFormaggio1/sentiment_analysis_climate) | [✍️Blog Article](https://medium.com/@alb.formaggio/a-full-journey-in-twitter-sentiment-analysis-6d3b8d45aa7))
 - Sentiment Analysis over a tweets dataset regarding climate change with BERT and other Machine Learning techniques (e.g. SVM)
-- Category xx of the Sustainable Development Goals defined by the United Nations: xx
+- Category 13 of the Sustainable Development Goals defined by the United Nations: Climate Action
 - Achieved 0.86 F1-Score
 - Developed with Tensorflow, Pandas, Scikit-learn, Python
 
