@@ -1,10 +1,17 @@
 <div id='header' align='center'>
+  <div>
+    <img src=https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/000b40d5-f849-48ae-84d9-7ea85cc3a19e' width=300px>
+  </div>
+  
   <div id='banner'>
+    <a href='https%3A%2F%2Fmedium.com%2F%40alb.formaggio'>
+      <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
+    </a>
     <a href='www.linkedin.com%2Fin%2Falberto-formaggio-2a4399171'>
       <img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white'>
     </a>
-    <a href='https%3A%2F%2Fmedium.com%2F%40alb.formaggio'>
-      <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
+    <a href='https://github.com/AlbertoFormaggio1'>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-%23000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
   
@@ -15,7 +22,7 @@
 </div>
 
 I'm a graduate Computer Engineering student, with a strong passion for Artificial Intelligence.
-Based in <img src="https://icons8.com/icon/WmOfu4e7Rvp7/italy" width="13"/> **Rovigo, Italy** but my heart will be forever in **Prague, Czech Republic**.<br>
+Based in <img src="https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/08b0bd1f-04e8-4d12-9cff-1164f35f8b5b" width="13"/> **Rovigo, Italy** but my heart will be forever in my Erasmus home <img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/66a78c99-b509-412a-ad2c-6bf8a65253b3' width=13> **Prague, Czech Republic**.<br>
 Available to move anywhere in the world.
 
 <h3>Things I code with</h3>
@@ -53,10 +60,16 @@ Available to move anywhere in the world.
 - Achieved 0.878 IoU score
 - Developed with Tensorflow, Pandas, Python
 
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/1d55cb14-76e2-4031-9d6f-f44fcdb77110' width=20px>  **Where Am I?** ([🔗Code](https://github.com/deno750/TSP_Optimization) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
+- Android application to track in real-time the longitude, latitude and altitude of the device. Showing also the history of the past 5 minutes. Everything on a map as well.
+- Developed in Kotlin
 
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/c38a7955-e421-47f2-8d7e-8f6493ef3f3e' width=20px> **Sentiment Analysis for Climate Change**: ([🔗Code](https://github.com/deno750/TSP_Optimization) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
+- Sentiment Analysis over a tweets dataset regarding climate change with BERT and other Machine Learning techniques (e.g. SVM)
+- Category xx of the Sustainable Development Goals defined by the United Nations: xx
+- Achieved 0.86 F1-Score
 
-
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoFormaggio1&layout=compact&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats)
 
 
