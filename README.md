@@ -13,6 +13,9 @@
     <a href='https%3A%2F%2Fmedium.com%2F%40alb.formaggio'>
       <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
     </a>
+    <a href='albertoformaggio.netsons.org'>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%2307B3A4?style=for-the-badge">
+    </a>
   </div>
   
   <h1>
@@ -52,15 +55,21 @@ Available to move anywhere in the world.
 - Achieved 0.878 IoU score
 - Developed with Tensorflow, Pandas, Python
 
-<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/1d55cb14-76e2-4031-9d6f-f44fcdb77110' width=17px>  **Where Am I?** ([🔗Code](https://github.com/AlbertoFormaggio1/Where-Am-I) | [📄Report (italian)](https://github.com/AlbertoFormaggio1/Where-Am-I/blob/master/Relazione%20Progetto%206CFU.pdf))
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/1d55cb14-76e2-4031-9d6f-f44fcdb77110' width=17px>  **Where Am I?** ([🔗Code](https://github.com/AlbertoFormaggio1/Where-Am-I) | [📄Report in Italian](https://github.com/AlbertoFormaggio1/Where-Am-I/blob/master/Relazione%20Progetto%206CFU.pdf))
 - Android application to track in real-time the longitude, latitude and altitude of the device. Showing also the history of the past 5 minutes. Everything on a map as well.
-- Developed in Kotlin
+- Developed with Kotlin
 
 <img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/c38a7955-e421-47f2-8d7e-8f6493ef3f3e' width=17px> **Sentiment Analysis for Climate Change**: ([🔗Code](https://github.com/AlbertoFormaggio1/sentiment_analysis_climate) | [✍️Blog Article](https://medium.com/@alb.formaggio/a-full-journey-in-twitter-sentiment-analysis-6d3b8d45aa7))
 - Sentiment Analysis over a tweets dataset regarding climate change with BERT and other Machine Learning techniques (e.g. SVM)
 - Category 13 of the Sustainable Development Goals defined by the United Nations: Climate Action
 - Achieved 0.86 F1-Score
 - Developed with Tensorflow, Pandas, Scikit-learn, Python
+
+<img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/7c0ba1b9-f419-4790-bea4-fc7bfd6432d8' width=17px> **Grayscale to RGB for CNN training**: ([🔗Code](https://github.com/AlbertoFormaggio1/Grayscale-to-RGB) | [📄Report](https://github.com/AlbertoFormaggio1/Grayscale-to-RGB/blob/main/Relazione.pdf))
+- Conversion of 16 grayscale foraminifera images to a single image in RGB format
+- The goal is to improve the classification accuracy of a CNN, the conversion is done with unsupervised learning techniques
+- Achieved 0.805 accuracy
+- Developed with MATLAB
 
 and many others... Just look at my <a href='https://github.com/AlbertoFormaggio1?tab=repositories'>repositories</a>.
 
