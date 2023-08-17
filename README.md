@@ -45,7 +45,7 @@ Available to move anywhere in the world.
 <img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/44fdabfc-4b33-4716-a0e5-9e8a1bd64b9a' width=17px> **An Empirical Study on Ensemble of Segmentation Approaches**: ([🔗Code](https://github.com/AlbertoFormaggio1/Ensemble-Of-Segmentation) | [📄Published Paper](https://www.mdpi.com/2624-6120/3/2/22))
 - Empirical search of the best ensemble architecture to perform colorectal polyps segmentation
 - Tested ensembles with different backbones, data augmentation methods and loss functions
-- Personally, I implemented several loss functions to create an ensemble with greater diversity
+- Personally, I implemented several loss functions to create ensembles with greater diversity
 - Achieved 0.893 Dice score
 - Developed with MATLAB
 
