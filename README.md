@@ -7,13 +7,13 @@
     <a href='https://github.com/AlbertoFormaggio1'>
     <img alt="Static Badge" src="https://img.shields.io/badge/Github-%23000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href='www.linkedin.com%2Fin%2Falberto-formaggio-2a4399171'>
+    <a href='https://linkedin.com/in/alberto-formaggio-2a4399171'>
       <img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white'>
     </a>
-    <a href='https%3A%2F%2Fmedium.com%2F%40alb.formaggio'>
+    <a href='https://medium.com/@alb.formaggio'>
       <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
     </a>
-    <a href='www.albertoformaggio.netsons.org'>
+    <a href='http://albertoformaggio.netsons.org'>
       <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%2307B3A4?style=for-the-badge">
     </a>
   </div>
