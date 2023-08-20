@@ -13,7 +13,7 @@
     <a href='https%3A%2F%2Fmedium.com%2F%40alb.formaggio'>
       <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
     </a>
-    <a href='https://www.albertoformaggio.netsons.org'>
+    <a href='www.albertoformaggio.netsons.org'>
       <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%2307B3A4?style=for-the-badge">
     </a>
   </div>
