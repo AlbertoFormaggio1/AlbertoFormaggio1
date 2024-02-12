@@ -59,7 +59,7 @@ Available to move anywhere in the world.
 
 <img src='https://github.com/AlbertoFormaggio1/AlbertoFormaggio1/assets/70969742/870bf7fa-b2d3-44f9-aacc-01edeaec393b' width=17px> **Better Quality Embeddings for Node Classification Combining Classificiation with Link Prediction in Graph Neural Networks** ([🔗Code](https://github.com/AlbertoFormaggio1/fine_tuning_classification_prediction_GNN) | [📄Paper](https://github.com/AlbertoFormaggio1/fine_tuning_classification_prediction_GNN/blob/master/Paper.pdf))
 - Implementation of Link Prediction as self-supervised pre-training technique in Graph Neural Networks for node classification.
-- Tested with GCN, GAT and GraphSAGE (with mini-batch generation) with MLP for better learning.
+- Tested with GCN, GAT and GraphSAGE (with mini-batch generation) with MLP for improved learning during Link Prediction task.
 - Personally, I developed the whole training loop. My colleagues implemented grid search algorithms.
 - Developed with Pytorch, Pytorch Geometric, Python
 
