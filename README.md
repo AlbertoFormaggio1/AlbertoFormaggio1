@@ -13,9 +13,13 @@
     <a href='https://medium.com/@alb.formaggio'>
       <img src='https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white'>
     </a>
-    <a href='http://albertoformaggio.netsons.org'>
+    <a href='http://albertoformaggio1.github.io'>
       <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%2307B3A4?style=for-the-badge">
     </a>
+    <a href='http://albertoformaggio1.github.io'>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%2307B3A4?style=for-the-badge">
+    </a>
+    <a href=mailto:“alb.formaggio@gmail.com”>Send me an email</a>
   </div>
   
   <h1>
